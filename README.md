@@ -1,7 +1,12 @@
 # aop
 Alipay sdk
 
+
+```shell
+composer require jiemo/aop
+```
 ```php
+require __DIR__ . 'vendor/autoload.php';
 /**
  * SDK工作目录
  * 存放日志，AOP缓存数据
